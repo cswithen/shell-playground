@@ -1,0 +1,12 @@
+https://github.com/cswithen/cswithen.git
+https://github.com/cswithen/portfolio.git
+https://github.com/cswithen/shell-playground.git
+https://github.com/cswithen/machinelearning-playground.git
+https://github.com/cswithen/vue-playground.git
+https://github.com/cswithen/rust-playground.git
+https://github.com/cswithen/goLang-Playground.git
+https://github.com/cswithen/ethereum-kickstarter.git
+https://github.com/cswithen/west-march.git
+https://github.com/cswithen/udemy_solutions.git
+https://github.com/cswithen/ethereum-and-solidity-complete-devs-guide.git
+https://github.com/cswithen/50-in-50.git

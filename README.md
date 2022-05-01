@@ -33,3 +33,13 @@ bash script_name.sh
 The wakeup script is used to update each directory from which the file resides by checking the status with `git status`, then fetching the repo with `git fetch` and finally `git pulling`.
 
 Place this file inside the directory that houses all your directories you would like to automatically update with one command.
+
+## Clone Your Repos with one line
+
+Generate a text file with each clone link on a separate line
+
+Then run the following command
+
+```bash
+xargs -n1 git clone < gh-repos.txt
+```
